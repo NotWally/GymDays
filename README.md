@@ -14,9 +14,9 @@ I also didnt want it to look super boring and plain, I wanted to enjoy visiting 
 
 Features:
 - Total days spent
-- Total Time Spent
-- Date Joined
-- Todays Date
+- Total time spent
+- Date joined
+- Todays date
 
 
 ***VERSION 1.0***
