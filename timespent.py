@@ -14,7 +14,7 @@ time_in_s = int(stop_time - start_time)
 time_in_m = int(time_in_s / 60)
 time_in_h = int(time_in_m / 60)
 
-print("Total Time Spent: ", time_in_h, " Hours ", time_in_m, " Minutes ", time_in_s, " Seconds ")
+print("Total Time Spent: ", time_in_h, " Hours")
 new_time = int(cur_total_time) + int(time_in_s)
 new_time = str(new_time)
 
