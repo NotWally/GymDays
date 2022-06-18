@@ -8,7 +8,7 @@ I was not going to put up with the hastle of having to remember, calculate and s
 
 I also didnt want it to look super boring and plain, I wanted to enjoy visiting this page once every blue moon when I do decide to check up on my stats so I added a pure CSS moving background.
 
-***  VERSION 2.0  ***
+***VERSION 2.0***
 
 ![image](https://user-images.githubusercontent.com/94394627/174438950-7bde65bf-30cf-4a5f-b1ab-2689d68c1352.png)
 
@@ -19,7 +19,7 @@ Features:
 - Todays Date
 
 
-***  VERSION 1.0  ***
+***VERSION 1.0***
 
 ![image](https://user-images.githubusercontent.com/94394627/174056099-bfb9f356-f6f9-414b-8290-4ed518c1f6ac.png)
 
