@@ -11,6 +11,13 @@ body{
 	animation: 10s linear 0s normal none infinite animate;
  
 }
+
+#ttltime{
+    border: white solid 1px;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: rgba(231, 231, 231, 0.13);
+}
  
 @-webkit-keyframes animate {
 	from {background-position:0 0;}
